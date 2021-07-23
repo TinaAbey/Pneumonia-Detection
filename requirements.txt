@@ -1,5 +1,5 @@
 gunicorn
 flask
 joblib
-opencv-python
+opencv-python-headless==4.2.0.32
 scikit-learn
