@@ -1,0 +1,5 @@
+gunicorn
+flask
+joblib
+opencv-python
+scikit-learn
